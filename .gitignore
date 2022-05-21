@@ -70,3 +70,9 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/Easy Primitive People/
+Assets/Easy Primitive People.meta
+Assets/FreeFlyCamera/
+Assets/Polyart/
+Assets/FreeFlyCamera.meta
+Assets/Polyart.meta
